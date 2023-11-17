@@ -1,0 +1,190 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    position: right # position of the sidebar : left or right
+    about: false # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: false # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Pete Smith
+    tagline: Staff Software Engineer iOS
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: peadar81@gmail.com
+    phone: +353 87 945 9168
+    timezone: UTC+01:00 Timezone
+    citizenship:
+    website: superpeteblaze.github.io #do not add http://
+    linkedin: superpeteblaze
+    xing:
+    github: superpeteblaze
+    telegram: # add your nickname without '@' sign
+    gitlab:
+    bitbucket:
+    twitter:
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+    pdf:
+
+    # languages:
+    #   title: Languages
+    #   info:
+    #     - idiom: English
+    #       level: Native
+
+    #     - idiom: French
+    #       level: Professional
+
+    #     - idiom: Spanish
+    #       level: Professional
+
+    # interests:
+    #   title: Interests
+    #   info:
+    #     - item: Climbing
+    #       link:
+
+    #     - item: Snowboarding
+    #       link:
+
+    #     - item: Cooking
+    #       link:
+
+career-profile:
+    title: Career Profile
+    summary: |
+      Staff Software Engineer with 10+ years of iOS Mobile Experience. I've contributed to numerous Apps and SDKs, and have also worked on backend supporting services.
+      I focus on taking a pragmatic, user-centric approach to product development.
+education:
+    title: Education
+    info:
+      - degree: MSc in Software Engineering
+        university: National University of Ireland, Maynooth
+        time: 2010 - 2012
+        details: |
+          Grade: 1st Class Honors.
+      - degree: BSc in Software Engineering
+        university: Dublin City University
+        time: 1999 - 2003
+        details: |
+
+
+experiences:
+    title: Experience
+    info:
+      - role: Staff Engineer iOS - Mobile Apps, SDKs and Backend APIs
+        time: 2020 - Present
+        company: Zendesk
+        details: |
+          Working primarily in Swift and Ruby, I work across our app, SDK, and backend services teams.
+      - role: Team Lead - Mobile Apps and SDKs
+        time: 2019 - 2020
+        company: Zendesk
+        details: |
+          Managed, mentored, and coached a team of eight engineers, working on our apps and SDKs.
+      - role: Technical Lead - Mobile Apps
+        time: 2018 - 2019
+        company: Zendesk
+        details: |
+          With my peers I guided the technical roadmap for our mobile apps.
+      - role: Senior Engineer iOS - Mobile Apps
+        time: 2014 - 2018
+        company: Zendesk
+        details: |
+          My team delivered, maintained, and iterated on Zendesk Support, the company's flagship mobile app.
+      - role: Senior Engineer iOS - Mobile Apps
+        time: 2012 - 2014
+        company: IBM
+        details: |
+
+# certifications:
+#       title: Certifications
+#       list:
+#         - name: CV Builder
+#           start: 2020
+#           end: 2021
+#           organization: Microsoft
+#           credentialid: 111-222
+#           credentialurl: www.google.com
+#           credentialname: Google
+#           details: |
+#             Details about cert. Lorem ipsum dolor sit amet, consectetur
+#             adipiscing elit.
+#             Nullam eget orci purus. Nullam ultrices neque nibh.
+#             Aenean fermentum, felis vulputate suscipit accumsan,
+#             sem enim bibendum augue, sed convallis arcu lacus at dui.
+#             Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
+#             Praesent felis nibh, eleifend id eleifend id, dictum id enim.
+#             Praesent venenatis erat non augue suscipit consectetur.
+
+#             Second paragraph. Sed eleifend enim ante, vitae efficitur purus
+#             fringilla vel. Ut euismod, sem sed vulputate venenatis,
+#             justo diam viverra velit, sed rhoncus leo leo eu justo.
+#             Suspendisse placerat risus ante, sed porta nisi blandit at.
+#         - name: Git learning
+#           start: 2019
+#           end:
+#           organization: Microsoft
+#           credentialid: 111-222
+#           credentialurl: www.github.com
+#           credentialname: Github
+#           details: |
+#             Older certification. Lorem ipsum dolor sit amet, consectetur
+#             adipiscing elit.
+#             Nullam eget orci purus. Nullam ultrices neque nibh.
+#             Aenean fermentum, felis vulputate suscipit accumsan,
+#             sem enim bibendum augue, sed convallis arcu lacus at dui.
+#             Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
+#             Praesent felis nibh, eleifend id eleifend id, dictum id enim.
+#             Praesent venenatis erat non augue suscipit consectetur.
+
+publications:
+    title: Writing
+    intro: |
+      I write to solidifiy knowledge, learn, and contribute. Some of my published articles are below.
+    papers:
+      - title: Swift Concurrency  An Introduction
+        link: "https://zendesk.engineering/swift-concurrency-an-introduction-47e3bbe5ec66?sk=111811da8159729db0b0da3d41a6303e"
+      - title: UI Testing iOS Apps with the Robot Pattern
+        link: "https://zendesk.engineering/ui-testing-ios-apps-with-the-robot-pattern-dd839b59fed1?sk=0b5b21913ffc2682911721424156fd9b"
+      - title: App Onboarding with SwiftUI
+        link: "https://zendesk.engineering/app-onboarding-with-swiftui-23d970ab24d4?sk=d8a2da43171af87bb2456c24de14ed13"
+      - title: SwiftUI & UIView — A Simple Mistake
+        link: "https://zendesk.engineering/swiftui-uiview-a-simple-mistake-b794bd8c5678?sk=8c74fc46857b97651892e6f2d5a6e2b0"
+
+projects:
+    title: Side-Projects
+    intro: |
+      I use side-projects as a way to learn, express creativity, and have fun.
+    assignments:
+      - title: Bikey
+        link: "#hook"
+        tagline: "A hobby project. An iOS app built initially with UIKit, then rebuilt with SwiftUI. No longer available in the app store."
+
+# oss:
+#     title: OSS Contributions
+#     intro: >
+#     contributions:
+#       - title: Scaling Carousel
+#         link: "https://github.com/superpeteblaze/ScalingCarousel"
+#         tagline: "ScalingCarousel provides a simple carousel-style collection view on iOS. Built initially for one of my personal projects. 706 Github Stars."
+
+
+
+skills:
+    title: Skills
+
+    toolset:
+      - name: Swift
+        # level: 98%
+      - name: Objective-C
+        level: 98%
+      - name: Ruby on Rails
+        level: 98%
+
+footer: >
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
