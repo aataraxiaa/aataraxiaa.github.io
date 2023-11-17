@@ -179,11 +179,19 @@ skills:
     title: Skills
 
     toolset:
-      - name: Swift
+      - name: Swift, Objective-C, SwiftUI, UIKit
         # level: 98%
-      - name: Objective-C
+      - name: Ruby, Rails, Bundler
         level: 98%
-      - name: Ruby on Rails
+      - name: Datadog, Google Analytics
+        level: 98%
+      - name: Docker, Kubernetes,
+        level: 98%
+      - name: Github Actions, Jenkins, Spinnaker
+        level: 98%
+      - name: Jira, Trello, Scrum, Kanban
+        level: 98%
+      - name: Team & technical leadership
         level: 98%
 
 footer: >
