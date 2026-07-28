@@ -3,12 +3,12 @@
     <channel>
         <title>Beekeeper</title>
         <item>
-            <title>0.1.8</title>
-            <pubDate>Tue, 28 Jul 2026 08:24:31 +0100</pubDate>
-            <sparkle:version>32</sparkle:version>
-            <sparkle:shortVersionString>0.1.8</sparkle:shortVersionString>
+            <title>0.1.9</title>
+            <pubDate>Tue, 28 Jul 2026 11:00:43 +0100</pubDate>
+            <sparkle:version>33</sparkle:version>
+            <sparkle:shortVersionString>0.1.9</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/aataraxiaa/aataraxiaa.github.io/releases/download/beekeeper-v0.1.8/Beekeeper.zip" length="114219099" type="application/octet-stream" sparkle:edSignature="/H3GxEk/xPgaygpNpUe/9QQHrEa1Q2DZduP7VZLXOWW5ZwS3sRtgPmis0sFs04Hwp1/wxxb6uggHMufald+RAg=="/>
+            <enclosure url="https://github.com/aataraxiaa/aataraxiaa.github.io/releases/download/beekeeper-v0.1.9/Beekeeper.zip" length="114174570" type="application/octet-stream" sparkle:edSignature="5koW/0jIfu61fIRE0YfxSAF9pIPGSaLsSH58gOUfgVgJPhh83v1zjEOLN3qTIKO3Y9/+K5rbVEUxJvWlS0XhBA=="/>
         </item>
     </channel>
 </rss>
