@@ -1,15 +1,15 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
-  <channel>
-    <title>Honeycomb</title>
-    <item>
-      <title>0.1.7</title>
-      <pubDate>Mon, 10 Aug 2026 16:44:49 +0100</pubDate>
-      <sparkle:version>8</sparkle:version>
-      <sparkle:shortVersionString>0.1.7</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-      <enclosure url="https://github.com/aataraxiaa/aataraxiaa.github.io/releases/download/honeycomb-v0.1.7/Honeycomb-0.1.7-8.zip" length="13961008" type="application/octet-stream" sparkle:edSignature="mFzbmmy5aMi3wZ9vcYWQejyLa6LScM7bm9spKuwgrJjB9OkUriIyGhf8NTWv70f7xzz41b8JXkbEHHqEjB4YDQ=="/>
-    </item>
-  </channel>
+    <channel>
+        <title>Honeycomb</title>
+        <item>
+            <title>0.1.8</title>
+            <pubDate>Tue, 11 Aug 2026 13:13:14 +0100</pubDate>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>0.1.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/aataraxiaa/aataraxiaa.github.io/releases/download/honeycomb-v0.1.8/Honeycomb-0.1.8-9.zip" length="14023629" type="application/octet-stream" sparkle:edSignature="4ZdtfGaRSwBSPHyroR3hkHv18cZkJGZ2ElyUf0HvJdMydS7P9WfWPiedLliXn8+DH2dZiB8CUhqUE0fW4Sd4BA=="/>
+        </item>
+    </channel>
 </rss>
