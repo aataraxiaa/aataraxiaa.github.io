@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>cicada</title>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Tue, 11 Aug 2026 14:53:26 +0100</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/aataraxiaa/aataraxiaa.github.io/releases/download/cicada-v0.1.0/Cicada-0.1.0-1.zip" length="6200493" type="application/octet-stream" sparkle:edSignature="IQHtA5Sfe666bD7C+tZhDoSqUaSRk9EjdPfQDKKDqEsbIHPd8N4oLPYlzLZ5Be4zsHPn9/kJ1cVfxCzmWtxUAw=="/>
+        </item>
+    </channel>
+</rss>
