@@ -3,13 +3,13 @@
     <channel>
         <title>cicada</title>
         <item>
-            <title>0.1.1</title>
-            <pubDate>Thu, 13 Aug 2026 16:32:12 +0100</pubDate>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
+            <title>0.1.2</title>
+            <pubDate>Tue, 18 Aug 2026 18:02:31 +0100</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/aataraxiaa/aataraxiaa.github.io/releases/download/cicada-v0.1.1/Cicada-0.1.1-2.zip" length="6227824" type="application/octet-stream" sparkle:edSignature="pouot3yTWbkqQidjrNa7898hoeUtO0sEZTx2K6ERHYzDugoHtTgmPpEcxDVmOaehsjHIJuE95jYu0Hsi9zy4CA=="/>
+            <enclosure url="https://github.com/aataraxiaa/aataraxiaa.github.io/releases/download/cicada-v0.1.2/Cicada-0.1.2-3.zip" length="6232300" type="application/octet-stream" sparkle:edSignature="EMAb1dgvSlOLk2z6LbRhF5ZGZcwrQZ6hUuzh/PzLcXWpwsjir17z8yXBphyU9Qm1ECxiSKhkM+jMZhJYj7CyBA=="/>
         </item>
     </channel>
 </rss>
