@@ -3,13 +3,13 @@
     <channel>
         <title>Honeycomb</title>
         <item>
-            <title>0.1.9</title>
-            <pubDate>Tue, 18 Aug 2026 19:46:26 +0100</pubDate>
-            <sparkle:version>10</sparkle:version>
-            <sparkle:shortVersionString>0.1.9</sparkle:shortVersionString>
+            <title>0.1.10</title>
+            <pubDate>Wed, 19 Aug 2026 17:40:01 +0100</pubDate>
+            <sparkle:version>11</sparkle:version>
+            <sparkle:shortVersionString>0.1.10</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/aataraxiaa/aataraxiaa.github.io/releases/download/honeycomb-v0.1.9/Honeycomb-0.1.9-10.zip" length="14185493" type="application/octet-stream" sparkle:edSignature="B0VbJvbJSxV4geoFkdrgKmBIcZ/H1zI7NVrTliTY+M1SN1jlbdZMBqPjl3n5nwVJyrYWEa09O82ceFV5DesoBw=="/>
+            <enclosure url="https://github.com/aataraxiaa/aataraxiaa.github.io/releases/download/honeycomb-v0.1.10/Honeycomb-0.1.10-11.zip" length="14346199" type="application/octet-stream" sparkle:edSignature="EEaN1b0i7Ry/iNUWp8gV4YAa2oW983VOTNC/zNY3/o/dw+dhi4T2P7MFwrOYcde2eR7qlT96aQ2a675QhLESCg=="/>
         </item>
     </channel>
 </rss>
